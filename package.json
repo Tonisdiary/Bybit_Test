@@ -1,0 +1,24 @@
+{
+  "name": "bybit-trader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.12",
+    "axios": "^1.7.2",
+    "bybit-api": "^3.10.12",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "ws": "^8.18.0"
+  },
+  "description": ""
+}
